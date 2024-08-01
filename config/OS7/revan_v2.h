@@ -34,7 +34,7 @@ const unsigned int maxLedsPerStrip = 144;
 #ifdef CONFIG_PRESETS
 
 Preset presets[] = {
-{ "font;common",  "font/track.wav",
+{ "RVS;common",  "font/track.wav",
 /* copyright Fett263 JediSurvivor (Primary Blade) OS7 Style
 https://www.fett263.com/fett263-proffieOS7-style-library.html#JediSurvivor
 OS7.14 v2.242p
@@ -75,7 +75,7 @@ StylePtr<HEART>(""),
 
 StylePtr<CRYSTAL_CHAMBER>(""),
 
-"preset0"
+"LUKE"
 },
 
 };
