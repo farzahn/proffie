@@ -5,7 +5,7 @@
 #define NUM_BUTTONS 2
 const unsigned int maxLedsPerStrip = 144;
 #define EXTRA_COLOR_BUFFER_SPACE 60
-#define VOLUME 300
+#define VOLUME 200
 #define CLASH_THRESHOLD_G 3.0
 #define ENABLE_AUDIO
 #define ENABLE_MOTION
