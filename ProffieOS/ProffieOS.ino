@@ -25,7 +25,7 @@
 |  Add the slashes to any that you are not using.                   |
 \*-----------------------------------------------------------------*/
 
- #define CONFIG_FILE "config/ff-cal.h"
+ #define CONFIG_FILE "config/ff-mace.h"
 
 // #define CONFIG_FILE "config/default_proffieboard_config.h"
 // #define CONFIG_FILE "config/default_v3_config.h"
