@@ -123,13 +123,6 @@ StylePtr<AUX>(""),
 "MALAK"
 },
 
-StylePtr<HEART>(""),
-
-StylePtr<AUX>(""),
-
-"MALAK"
-},
-
 
 { "SHAN;common",  "font/font.wav",
 /* copyright Fett263 CustomBlade (Primary Blade) OS7 Style
