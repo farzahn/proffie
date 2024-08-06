@@ -35,7 +35,7 @@ const unsigned int maxLedsPerStrip = 144;
 #ifdef CONFIG_PRESETS
 
 Preset presets[] = {
-{ "RVS;common",  "font/font.wa",
+{ "RVS;common",  "font/font.wav",
 /* copyright Fett263 CustomBlade (Primary Blade) OS7 Style
 https://www.fett263.com/fett263-proffieOS7-style-library.html#CustomBlade
 OS7.14 v2.242p
@@ -81,7 +81,7 @@ StylePtr<AUX>(""),
 },
 
 
-{ "MALAK;common",  "font/font.wa",
+{ "MALAK;common",  "font/font.wav",
 /* copyright Fett263 CustomBlade (Primary Blade) OS7 Style
 https://www.fett263.com/fett263-proffieOS7-style-library.html#CustomBlade
 OS7.14 v2.242p
@@ -131,7 +131,7 @@ StylePtr<AUX>(""),
 },
 
 
-{ "SHAN;common",  "font/font.wa",
+{ "SHAN;common",  "font/font.wav",
 /* copyright Fett263 CustomBlade (Primary Blade) OS7 Style
 https://www.fett263.com/fett263-proffieOS7-style-library.html#CustomBlade
 OS7.14 v2.242p
